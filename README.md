@@ -1,8 +1,8 @@
 # PmagPy-Standalone-Linux
-Pmag GUI & MagIC GUI are graphical user interfaces (GUIs) that provide tools for uploading, downloading, and analyzing data from the MagIC database. For more information on MagIC, see: http://earthref.org/MAGIC/. For complete documentation on using the GUIs, see: http://earthref.org/PmagPy/cookbook/.
+Pmag GUI is a graphical user interfaces (GUIs) that provides tools for uploading, downloading, and analyzing data from the MagIC database. For more information on MagIC, see: http://earthref.org/MAGIC/. For complete documentation on using Pmag GUI, see: http://earthref.org/PmagPy/cookbook/.
 
-If you would the full PmagPy functionality, go to: https://github.com/ltauxe/PmagPy#what-is-it
+If you want to download the full PmagPy functionality, go to: https://github.com/ltauxe/PmagPy#what-is-it
 
-To get started, download the zip file and put the resulting folder on your desktop. Inside the PmagPy-Standalone folder you will have one folder each for Pmag GUI and MagIC GUI. Open the appropriate folder and double click the icon (depending on your security settings, you may have to right click the icon and then select "ok" the first time you open it).
+To get started with the Linux Pmag GUI standalone, download PmagGUI\_Ubuntu14\_04x64 and unzip it. Then you should be able to double click the icon and run it according to the documentation (see links above).
 
 This software may be freely distributed; however, please see [license.txt](https://github.com/moonshoes87/PmagPy-Standalone-Linux/blob/master/license.txt) for details.
