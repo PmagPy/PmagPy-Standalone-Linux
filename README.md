@@ -1,5 +1,5 @@
 # PmagPy-Standalone-Linux
-Pmag GUI is a graphical user interface (GUIs) that provides tools for uploading, downloading, and analyzing data from the MagIC database. For more information on MagIC, see: http://earthref.org/MAGIC/. For complete documentation on using Pmag GUI, see: http://earthref.org/PmagPy/cookbook/.
+Pmag GUI is a graphical user interface (GUI) that provides tools for uploading, downloading, and analyzing data from the MagIC database. For more information on MagIC, see: http://earthref.org/MAGIC/. For complete documentation on using Pmag GUI, see: http://earthref.org/PmagPy/cookbook/.
 
 If you want to download the full PmagPy functionality, go to: https://github.com/ltauxe/PmagPy#what-is-it
 
